@@ -1,0 +1,90 @@
+{
+  "name": "webssh2",
+  "version": "0.2.10-1",
+  "ignore": [
+    ".gitignore"
+  ],
+  "bin": "./index.js",
+  "description": "A Websocket to SSH2 gateway using term.js, socket.io, ssh2, and express",
+  "homepage": "https://github.com/billchurch/WebSSH2",
+  "keywords": "ssh webssh terminal webterminal",
+  "license": "SEE LICENSE IN FILE - LICENSE",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billchurch/WebSSH2.git"
+  },
+  "contributors": [
+    {
+      "name": "Bill Church",
+      "email": "wmchurch@gmail.com"
+    }
+  ],
+  "engines": {
+    "node": ">= 6"
+  },
+  "bugs": {
+    "url": "https://github.com/billchurch/WebSSH2/issues"
+  },
+  "dependencies": {
+    "basic-auth": "~2.0.1",
+    "cidr-matcher": "2.1.1",
+    "colors": "~1.4.0",
+    "compression": "~1.7.4",
+    "debug": "^4.1.1",
+    "express": "~4.17.1",
+    "express-session": "~1.17.0",
+    "morgan": "~1.9.1",
+    "read-config": "git+https://github.com/billchurch/nodejs-read-config.git",
+    "socket.io": "2.2.0",
+    "ssh2": "~0.8.6",
+    "terser-webpack-plugin": "^2.2.1",
+    "validator": "^12.1.0",
+    "xterm-addon-fit": "^0.3.0",
+    "xterm-addon-search": "^0.3.0",
+    "xterm-addon-web-links": "^0.2.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "build": "webpack --progress --colors --config scripts/webpack.prod.js",
+    "builddev": "webpack --progress --colors --config scripts/webpack.dev.js",
+    "analyze": "webpack --json --config scripts/webpack.prod.js | webpack-bundle-size-analyzer",
+    "test": "snyk test",
+    "watch": "nodemon index.js",
+    "standard": "standard --verbose --fix | snazzy",
+    "cleanmac": "find . -name '.DS_Store' -type f -delete",
+    "release": "standard-version"
+  },
+  "standard": {
+    "ignore": [
+      "client/public/webssh2.bundle.js",
+      "bigip/*",
+      "screenshots/*",
+      "bin/*",
+      "build/*",
+      "workspace/*"
+    ]
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "clean-webpack-plugin": "^3.0.0",
+    "copy-webpack-plugin": "^5.0.5",
+    "cross-env": "^6.0.3",
+    "css-loader": "^3.2.0",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "file-loader": "^4.2.0",
+    "nodaemon": "0.0.5",
+    "postcss-discard-comments": "^4.0.2",
+    "snazzy": "^8.0.0",
+    "standard": "^14.3.1",
+    "standard-version": "^7.0.0",
+    "style-loader": "^1.0.0",
+    "url-loader": "^2.2.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-merge": "^4.2.2",
+    "webpack-stream": "^5.2.1",
+    "xterm": "^4.2.0"
+  }
+}

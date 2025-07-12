@@ -1,0 +1,279 @@
+Xsession: X session started for antslab at 公曆 20廿五年 六月 一日 週日 十八時34分41秒
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:10.0
+localuser:antslab being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=antslab
+dbus-update-activation-environment: setting LC_TIME=lzh_TW
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/antslab
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting LC_MONETARY=lzh_TW
+dbus-update-activation-environment: setting XRDP_PULSE_SINK_SOCKET=xrdp_chansrv_audio_out_socket_10
+dbus-update-activation-environment: setting XRDP_PULSE_SOURCE_SOCKET=xrdp_chansrv_audio_in_socket_10
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=antslab
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/sbin:/bin:/usr/bin:/usr/local/bin:/snap/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LC_ADDRESS=lzh_TW
+dbus-update-activation-environment: setting DISPLAY=:10.0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting LC_TELEPHONE=lzh_TW
+dbus-update-activation-environment: setting UID=1000
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting LC_NAME=lzh_TW
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting LC_MEASUREMENT=lzh_TW
+dbus-update-activation-environment: setting LC_IDENTIFICATION=lzh_TW
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/antslab
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting LC_NUMERIC=lzh_TW
+dbus-update-activation-environment: setting LC_PAPER=lzh_TW
+Xsession: X session started for antslab at 公曆 20廿五年 六月 一日 週日 十八時55分56秒
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:11.0
+localuser:antslab being added to access control list
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=antslab
+dbus-update-activation-environment: setting LC_TIME=lzh_TW
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/antslab
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting LC_MONETARY=lzh_TW
+dbus-update-activation-environment: setting XRDP_PULSE_SINK_SOCKET=xrdp_chansrv_audio_out_socket_11
+dbus-update-activation-environment: setting XRDP_PULSE_SOURCE_SOCKET=xrdp_chansrv_audio_in_socket_11
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting PULSE_SCRIPT=/etc/xrdp/pulse/default.pa
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=antslab
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/sbin:/bin:/usr/bin:/usr/local/bin:/snap/bin
+dbus-update-activation-environment: setting XRDP_SOCKET_PATH=/run/xrdp/sockdir
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LC_ADDRESS=lzh_TW
+dbus-update-activation-environment: setting DISPLAY=:11.0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting LC_TELEPHONE=lzh_TW
+dbus-update-activation-environment: setting UID=1000
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting LC_NAME=lzh_TW
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XRDP_SESSION=1
+dbus-update-activation-environment: setting LC_MEASUREMENT=lzh_TW
+dbus-update-activation-environment: setting LC_IDENTIFICATION=lzh_TW
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/antslab
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting LC_NUMERIC=lzh_TW
+dbus-update-activation-environment: setting LC_PAPER=lzh_TW
+xfce4-session-Message: 18:55:56.415: SSH authentication agent is already running
+gpg-agent[594948]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:594936): xfce4-session-WARNING **: 18:55:56.419: gpg-agent returned no PID in the variables
+
+(xfce4-session:594936): xfce4-session-WARNING **: 18:55:56.420: xfsm_manager_load_session: Something wrong with /home/antslab/.cache/sessions/xfce4-session-antslab-Pro-E500-G6-WS720T:11, Does it exist? Permissions issue?
+
+(xfwm4:594951): GLib-CRITICAL **: 18:55:56.506: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfwm4:594951): xfwm4-WARNING **: 18:55:56.860: Another compositing manager is running on screen 0
+
+(xfsettingsd:594961): GLib-CRITICAL **: 18:55:56.889: g_str_has_prefix: assertion 'prefix != NULL' failed
+
+(xfsettingsd:594961): GLib-GObject-CRITICAL **: 18:55:56.891: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+
+(xfsettingsd:594961): GLib-GObject-CRITICAL **: 18:55:56.892: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
+xfce4-panel-Message: 18:55:57.072: Plugin "statusnotifier-7" was not found and has been removed from the configuration
+Tracker-Message: 18:55:57.087: Set scheduler policy to SCHED_IDLE
+Tracker-Message: 18:55:57.087: Setting priority nice level to 19
+
+** (xiccd:594988): WARNING **: 18:55:57.096: EDID is empty
+
+** (xiccd:594988): CRITICAL **: 18:55:57.102: unable to create profile: failed to obtain org.freedesktop.color-manager.create-profile auth
+Tracker-Message: 18:55:57.106: Set scheduler policy to SCHED_IDLE
+Tracker-Message: 18:55:57.106: Setting priority nice level to 19
+
+** (update-notifier:594986): WARNING **: 18:55:57.112: already running?
+
+** (light-locker:594992): ERROR **: 18:55:57.113: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
+
+** (xiccd:594988): CRITICAL **: 18:55:57.114: failed to create colord device: failed to obtain org.freedesktop.color-manager.create-device auth
+
+** (xiccd:594988): CRITICAL **: 18:55:57.143: device 'xrandr-Philips Consumer Electronics Company-PHL 246V5-AU01727009830' does not exist
+Failure: Module initialization failed
+
+** (wrapper-2.0:594982): WARNING **: 18:55:57.203: No outputs have backlight property
+
+(wrapper-2.0:594983): GLib-GIO-CRITICAL **: 18:55:57.215: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:594983): GLib-GIO-CRITICAL **: 18:55:57.215: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:594983): GLib-GObject-WARNING **: 18:55:57.215: invalid (NULL) pointer instance
+
+(wrapper-2.0:594983): GLib-GObject-CRITICAL **: 18:55:57.215: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:594983): Gtk-WARNING **: 18:55:57.215: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+(evolution-alarm-notify:595054): GLib-GIO-WARNING **: 18:55:57.223: Your application did not unregister from D-Bus before destruction. Consider using g_application_run().
+
+** (wrapper-2.0:594981): WARNING **: 18:55:57.236: Binding 'XF86AudioLowerVolume' failed!
+
+(wrapper-2.0:594981): pulseaudio-plugin-WARNING **: 18:55:57.236: Could not have grabbed volume control keys. Is another volume control application (xfce4-volumed) running?
+
+** (wrapper-2.0:594981): WARNING **: 18:55:57.236: Binding 'XF86AudioPlay' failed!
+
+(wrapper-2.0:594981): pulseaudio-plugin-WARNING **: 18:55:57.236: Could not have grabbed multimedia control keys.
+
+(wrapper-2.0:594982): xfce4-power-manager-plugin-WARNING **: 18:55:57.252: Xfce4-power-manager: The panel plugin is present, so the tray icon gets disabled.
+
+(wrapper-2.0:594983): Gtk-WARNING **: 18:55:57.255: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner GtkToggleButton)
+
+(tracker-miner-fs:594984): Tracker-CRITICAL **: 18:55:57.255: Could not request DBus name 'org.freedesktop.Tracker1.Miner.Files': D-Bus service name:'org.freedesktop.Tracker1.Miner.Files' is already taken, perhaps the application is already running?
+
+(wrapper-2.0:594981): Gtk-WARNING **: 18:55:57.256: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:594982): Gtk-WARNING **: 18:55:57.266: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PowerManagerButton)
+
+** (xfdesktop:594977): WARNING **: 18:55:57.276: Failed to set the background '/usr/share/backgrounds/xfce/xfce-stripes.png': GDBus.Error:org.freedesktop.DBus.Error.InvalidArgs: No such interface “org.freedesktop.DisplayManager.AccountsService”
+
+(wrapper-2.0:594985): Gtk-WARNING **: 18:55:57.297: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner XfceArrowButton)
+
+(xfce4-panel:594962): xfce4-panel-CRITICAL **: 18:56:28.071: panel-window.c:2245 (panel_window_active_window_geometry_changed): expression 'WNCK_IS_WINDOW (active_window)' failed.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+(xfce4-panel:594962): xfce4-panel-CRITICAL **: 18:56:32.072: panel-window.c:2245 (panel_window_active_window_geometry_changed): expression 'WNCK_IS_WINDOW (active_window)' failed.
+
+** (xiccd:594988): WARNING **: 21:26:15.108: EDID is empty
+
+** (xiccd:594988): WARNING **: 14:21:51.555: EDID is empty
+
+** (xiccd:594988): WARNING **: 16:09:05.934: EDID is empty
+
+** (xiccd:594988): WARNING **: 18:51:09.357: EDID is empty
+
+** (xiccd:594988): WARNING **: 23:30:41.546: EDID is empty
+
+** (xiccd:594988): WARNING **: 11:40:43.983: EDID is empty
+
+** (xiccd:594988): WARNING **: 11:40:43.989: EDID is empty
+
+** (xiccd:594988): WARNING **: 14:23:58.703: EDID is empty
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 15 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 17 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 21 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 23 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 27 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 33 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 39 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 45 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 49 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 51 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 55 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 57 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 59 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 67 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 69 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 73 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 75 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 79 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 85 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 97 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 101 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 103 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 107 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 109 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 115 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 117 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 123 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 125 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 127 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 135 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 137 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 141 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 143 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 147 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 153 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 155 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 161 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 163 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 169 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 181 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 185 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 187 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 191 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 193 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 199 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 201 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 203 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 205 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 211 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 219 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 221 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 225 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 227 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 231 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
+/usr/share/system-config-printer/applet.py:364: Warning: Source ID 237 was not found when attempting to remove it
+  GLib.source_remove (self.timer)
